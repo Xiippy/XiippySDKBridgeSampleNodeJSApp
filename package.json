@@ -1,0 +1,21 @@
+{
+  "name": "xiippysdkbridgesamplenodejsapp",
+  "version": "1.0.0",
+  "description": "xiippy sdk bridge sample node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.10",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "uuid": "^9.0.1",
+    "xiippy.posecomsdk.light": "^1.0.0"
+  }
+}
